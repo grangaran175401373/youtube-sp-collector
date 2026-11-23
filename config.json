@@ -1,0 +1,25 @@
+{
+  "lookback_days": 7,
+  "max_videos_per_channel": 50,
+  "description_max_length": 5000,
+  "channels": [
+    {
+      "name": "PIVOT 公式チャンネル",
+      "handle": "@pivot00",
+      "channel_id": "UC8yHePe_RgUBE-waRWy6olw",
+      "enabled": true
+    },
+    {
+      "name": "NewsPicks",
+      "handle": "@NewsPicks",
+      "channel_id": "UCfTnJmRQP79C4y_BMF_XrlA",
+      "enabled": true
+    },
+    {
+      "name": "TBS CROSS DIG with Bloomberg",
+      "handle": "@tbs_bloomberg",
+      "channel_id": "UCeCmAYh1ylwIsgGrmqaklzg",
+      "enabled": true
+    }
+  ]
+}
